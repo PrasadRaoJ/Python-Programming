@@ -1,5 +1,5 @@
 print("============This is Our Room===========")
-list=['sanaulla','madhu','mani','venky','ravi','ravindra']
+list=['sanaulla','madhu','mani','ravi','Prasad Rao']
 print("we have to know how many members in the room")
 print("-----------Monthly PAYABLE AMOUNT PER EACH MEMBER IN THE ROOM----------")
 rent=int(input("enter amount for the room rent per momth:"))
